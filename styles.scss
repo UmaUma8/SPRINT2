@@ -1,1 +1,18 @@
+
+$theme-colors: (
+  "primary":    #5265E1,
+  "secondary":  #FA5959,
+);
+
+.figura{
+  background-color: #5265E1;
+  width: 400px;
+  height: 370px;
+  left: 70%;
+  top: 40%;
+  border-radius: 200px 0 0 200px;
+  position: absolute;
+  z-index: -3;
+  } 
+  
 @import "./node_modules/bootstrap/scss/bootstrap.scss";
